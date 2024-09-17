@@ -19,3 +19,5 @@ In the initial data preparation stage, we performed the following tasks;
 - Data cleaning and formatting
 
 ### Exploratory Data Analysis (EDA)
+EDA involved exploring the sales to answer key questions, such as;
+- What is the 
