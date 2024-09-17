@@ -19,5 +19,10 @@ In the initial data preparation stage, we performed the following tasks;
 - Data cleaning and formatting
 
 ### Exploratory Data Analysis (EDA)
-EDA involved exploring the sales to answer key questions, such as;
-- What is the 
+EDA involved exploring the employee data to answer key questions, such as;
+- What is the attrition rate and trend of employees in the organization?
+- What is the performance and satisfaction level of employees in the organization?
+- What is the age and gender balance of employees across each department?
+- How often did employees strive to improve their selves through training in the previous year?
+
+#
