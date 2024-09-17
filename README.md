@@ -46,4 +46,7 @@ Some of the functions or syntax used during analysis in excel includes:
 Some of the analysis results are as follows:
 - There are currently **1,233** employees in the organization with the overall attrition rate of **16%**. About 237 employees have left the organization within the time scope of the dataset.
 - The average performance rating of employees in the organization is **3** out of **5**. While the job and environment satiscation levels can be considered satisfactory or very good as majority of the employees rate it a **3** or **4** out of **4**.
-- 
+- The average age of employees in the organization is **37** with most within the **25-34** and  **35-44** age brackets. There are **732** males and **501** females within the organization with the **R&D** department having the majority of the employees, both male and female.
+- Over the course of the previous year, majority of the employees underwent training twice or thrice.
+
+### Recommendation
