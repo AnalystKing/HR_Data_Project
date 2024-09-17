@@ -12,4 +12,10 @@ The primary tool used in this analysis is excel. Excel was used for the followin
 - Analyzing the data
 - Visualizing the data and creating a dashboard.
 
-### 
+### Data Cleaning/Preparation
+In the initial data preparation stage, we performed the following tasks;
+- Data loading and inspection
+- Checking formatting and handling missing values
+- Data cleaning and formatting
+
+### Exploratory Data Analysis (EDA)
