@@ -20,7 +20,7 @@ In the initial data preparation stage, we performed the following tasks;
 
 ### Exploratory Data Analysis (EDA)
 EDA involved exploring the employee data to answer key questions, such as;
-- What is the number of employess and attrition rate in the organization?
+- What is the number of employees and attrition rate in the organization?
 - What is the performance and satisfaction level of employees in the organization?
 - What is the age and gender balance of employees across each department?
 - How often did employees strive to improve their selves through training in the previous year?
@@ -42,4 +42,8 @@ Some of the functions or syntax used during analysis in excel includes:
   =AVERAGE(Age_column)
 ```
 
-###
+### Results/Findings
+Some of the analysis results are as follows:
+- There are currently **1,233** employees in the organization with the overall attrition rate of **16%**. About 237 employees have left the organization within the time scope of the dataset.
+- The average performance rating of employees in the organization is **3** out of **5**. While the job and environment satiscation levels can be considered satisfactory or very good as majority of the employees rate it a **3** or **4** out of **4**.
+- 
