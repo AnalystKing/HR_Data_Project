@@ -50,3 +50,11 @@ Some of the analysis results are as follows:
 - Over the course of the previous year, majority of the employees underwent training twice or thrice.
 
 ### Recommendation
+Based on the analysis, we recommend the following actions;
+- The sales department should be looked into as it recorded the highest rate of attrition.
+- Some employees are due for promotion.
+
+### Limitations
+The dataset did not contain a date time column for reference on time period the data was collected. 
+
+### 
