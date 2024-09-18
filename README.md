@@ -3,7 +3,7 @@
 This data analysis project using a HR dataset aims to provide insight into attrition trends, job performance and satifaction levels as well as employee self development rate. It also seeks to analyze the gender, marital and age balance of employees in the organzation. 
 
 ### Data Sources
-HR Data: The primary dataset used for this analysis is the 'HR_Data.csv' file containing important information about each employee in the organization. The dataset is sourced from [here](https://docs.google.com/spreadsheets/d/17zaiJnUOnLdHROWLZYcVlpMJ08wh-Bou/edit?gid=115883679#gid=115883679) or you can donload the raw data - [HR Data (1).xlsx](https://github.com/user-attachments/files/17045368/HR.Data.1.xlsx)
+HR Data: The primary dataset used for this analysis is the 'HR_Data.csv' file containing important information about each employee in the organization. The dataset is sourced from [here](https://docs.google.com/spreadsheets/d/17zaiJnUOnLdHROWLZYcVlpMJ08wh-Bou/edit?gid=115883679#gid=115883679)
 
 
 ### Tools
