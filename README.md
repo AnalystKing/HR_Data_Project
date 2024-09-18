@@ -52,8 +52,9 @@ Some of the analysis results are as follows:
 
 Here is a preview of the dashoard for reference:
 
-![Dashboard](https://github.com/user-attachments/assets/37173432-b3a8-4c69-8f20-78ae7bbfb5c6)
+![Dashboard](https://github.com/user-attachments/assets/47ddd0fb-91eb-4d72-8c16-3d6cdcb981d0)
 
+To interact with the dashboard and apply filters, click here: [HR Data - Copy.xlsx](https://github.com/user-attachments/files/17045679/HR.Data.-.Copy.xlsx)
 
 ### Recommendation
 Based on the analysis, we recommend the following actions;
@@ -63,4 +64,6 @@ Based on the analysis, we recommend the following actions;
 ### Limitations
 The dataset did not contain a date time column for reference on time period the data was collected. 
 
-### 
+### Reference 
+- Excel tutorial on [W3schools.com](https://www.w3schools.com/excel/index.php)
+
