@@ -49,9 +49,14 @@ Some of the analysis results are as follows:
 - The average age of employees in the organization is **37** with most within the **25-34** and  **35-44** age brackets. There are **732** males and **501** females within the organization with the **R&D** department having the majority of the employees, both male and female.
 - Over the course of the previous year, majority of the employees underwent training twice or thrice.
 
+Here is a preview of the dashoard for reference:
+
+![Dashboard](https://github.com/user-attachments/assets/37173432-b3a8-4c69-8f20-78ae7bbfb5c6)
+
+
 ### Recommendation
 Based on the analysis, we recommend the following actions;
-- The sales department should be looked into as it recorded the highest rate of attrition.
+- The sales department should be looked into as it recorded the highest rate of attrition of 21%.
 - Some employees are due for promotion.
 
 ### Limitations
